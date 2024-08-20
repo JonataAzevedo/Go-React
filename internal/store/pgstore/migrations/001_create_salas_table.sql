@@ -5,4 +5,4 @@ CREATE TABLE IF NOT EXISTS salas (
 
 ---- create above / drop below ----
 
-DROP TABLE IF EXISTS rooms;
+DROP TABLE IF EXISTS salas;
